@@ -8,7 +8,7 @@
 <body>
     <h1>Добро пожаловать!</h1>
     <audio autoplay>
-        <source src="my-audio-file.mp3" type="audio/mpeg">
+        <source src="Synthwave Goose - Blade Runner 2049.mp3" type="audio/mp3">
         Ваш браузер не поддерживает аудио.
     </audio>
 </body>
